@@ -1,0 +1,5 @@
+Esta es una prueba de como enviar la informacion del repositorio local
+al repositorio remoto.
+ Este seria el tercer commit(?
+Ya que el contenido de este documento de texto sería una modificación que 
+posteriormente vamos a guardar
