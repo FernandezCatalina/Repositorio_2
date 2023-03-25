@@ -1,2 +1,5 @@
-Practica doss. Para verificar como enviar la inf al repositorio remoto
-El contenido de este documento de texto sería la modificación realizada
+Practica dos. 
+Verificar como enviar la inf. hacia el repositorio remoto.
+El contenido de este documento de texto sería la modificación realizada.
+
+...Este sería el cuarto commit realizado.
